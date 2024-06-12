@@ -12,3 +12,4 @@ E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Debug\net8.0\refint\Nu
 E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Debug\net8.0\NumberGuessing.pdb
 E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Debug\net8.0\NumberGuessing.genruntimeconfig.cache
 E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Debug\net8.0\ref\NumberGuessing.dll
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Debug\net8.0\NumberGuessing.sourcelink.json

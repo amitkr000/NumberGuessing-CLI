@@ -48,7 +48,7 @@ class Program
                     if (GuessNumber == CorrectNumber )
                     {
                         Wins++;
-                        ColorMessage("WoW! You Have Guess the Correct Number.", ConsoleColor.Yellow);
+                        ColorMessage("WoW! You Have Guess the Correct Number {~ _ ~}.", ConsoleColor.Yellow);
                         NumberWinsLoses(Wins, Loses);
                         break;
                     }
@@ -80,7 +80,7 @@ class Program
                 if (Lives <= 0)
                 {
                     Loses++;
-                    ColorMessage("OHH NO! You have loose all you lives", ConsoleColor.Red);
+                    ColorMessage("OHH NO! You have loose all lives :{", ConsoleColor.Red);
                     NumberWinsLoses(Wins, Loses);
                     break;
                 }
