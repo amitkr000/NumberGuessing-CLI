@@ -14,3 +14,7 @@ Hoping You enjoy it :} .
 - After each wins and loses, it ask to play again or end the game.
 
 You can download any one or both exe file and double click to open and start the console game.
+
+C#     |    C++
+:-------------------------:|:-------------------------:
+<img title="a title" alt="Alt text" src="https://github.com/amitkr000/NumberGuessing-CLI/blob/main/docs/cs.png" width = 400px > | <img title="a title" alt="Alt text" src="https://github.com/amitkr000/NumberGuessing-CLI/blob/main/docs/cpp.png" width = 420px >
