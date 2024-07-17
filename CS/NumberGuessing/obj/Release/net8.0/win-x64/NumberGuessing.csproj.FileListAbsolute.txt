@@ -1,0 +1,15 @@
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\win-x64\NumberGuessing.exe
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\win-x64\NumberGuessing.deps.json
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\win-x64\NumberGuessing.runtimeconfig.json
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\win-x64\NumberGuessing.dll
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\win-x64\NumberGuessing.pdb
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.AssemblyInfoInputs.cache
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.AssemblyInfo.cs
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.csproj.CoreCompileInputs.cache
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.sourcelink.json
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.dll
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\refint\NumberGuessing.dll
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.pdb
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\NumberGuessing.genruntimeconfig.cache
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\obj\Release\net8.0\win-x64\ref\NumberGuessing.dll

@@ -1,0 +1,2 @@
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\win-x64\NumberGuessing.pdb
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\win-x64\NumberGuessing.exe

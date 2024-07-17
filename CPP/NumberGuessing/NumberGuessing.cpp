@@ -20,7 +20,7 @@ int main()
     while (true) {
         correctNumber = std::rand() % 10 + 1;
 
-        std::cout << "Guess a number between 1 to 10." << std::endl;
+        std::cout << "Guess the number between 1 to 10." << std::endl;
         ShowLives(Lives);
         while (true) {
             std::cin >> Guess;
@@ -45,6 +45,7 @@ int main()
             Lives--;
             if (Lives <= 0) {
                 Loses++;
+                std::cout << "Correct Number: " << correctNumber << std::endl;
                 std::cout << "OHH NO! You have loose all lives. :[" << std::endl;
                 BlankLines(1);
                 break;
@@ -76,8 +77,7 @@ void GetDevInfo() {
     std::string name = "Number Guessing";
     std::string version = "1.0.0";
     std::string author = "Amit Kumar";
-
-    std::cout << name << ": V " << version << " by " << author << std::endl << std::endl;
+    std::cout <<"\033[32m" << name << ": V " << version << " by " << author << "\033[0m" << std::endl << std::endl;
 }
 
 void GreetPlayer() {

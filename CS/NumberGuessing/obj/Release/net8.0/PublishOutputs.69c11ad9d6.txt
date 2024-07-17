@@ -1,0 +1,5 @@
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\NumberGuessing.exe
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\NumberGuessing.dll
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\NumberGuessing.deps.json
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\NumberGuessing.runtimeconfig.json
+E:\GithubProject\NumberGuessing-CLI\CS\NumberGuessing\bin\Release\net8.0\publish\NumberGuessing.pdb
